@@ -1,0 +1,17 @@
+{
+  "name": "reminder-app",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000e\u0000m\u0000i\u0000n\u0000d\u0000e\u0000r\u0000a\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.2.13",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
